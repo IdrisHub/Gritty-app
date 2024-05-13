@@ -1,0 +1,19 @@
+.top-container{
+    background-color:blue;
+    color:white;
+    margin-top:70px;
+    text-align:center;
+    padding-top:20px;
+}
+#gritty{
+    height:100px;
+    width:100px;
+    padding-bottom:10px;
+}
+#gritter{
+    font-size:80px;
+    color:blue
+}
+.bold{
+    font-weight: 100px;
+}
